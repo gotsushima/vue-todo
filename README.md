@@ -1,5 +1,5 @@
 # Vue Todos App
 
 ## Technologies Used
-- Languages: JavaScript, HTML, CSS
+- Languages: JavaScript, HTML, SCSS
 - Framework: Vue.js
